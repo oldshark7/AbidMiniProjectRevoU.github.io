@@ -1,5 +1,5 @@
 function myFunction() {
-    var x, text;
+    var x, text1, text2, text3, text4, text5, text6, text7;
     var y, text;
     var z, text;
   
@@ -31,6 +31,8 @@ function myFunction() {
       text3 = "Anda memiliki berat badan yang ideal";
       text4 = "Hasil BMI antara 18.5 dan 24.9 <br> Anda berada dalam kategori berat badan ideal. <br> Pertahankan pola makan dan gaya hidup sehat.";
       text5 = "BMI tidak sepenuhnya mewakili diagnosis menyeluruh dari kesehatan tubuh dan resiko penyakit seseorang. <br> Anda perlu konsultasi lebih lanjut mengenai resiko dan kekhawatiran Anda terkait dengan <br> berat badan Anda.";
+      text6 = "";
+      text7 = "";
     }
 
     else if (BMI >= 25.0 && BMI < 29.9) {
